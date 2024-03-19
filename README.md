@@ -11,6 +11,6 @@ Make sure to be in the `build_scripts` folder.
 
 `mvn versions:help`
 
-`mvn versions:set -DnewVersion=1.6.3-SNAPSHOT -Doldversion=* -DgroupId=* -DartifactId=*`
+`mvn versions:set -DnewVersion=1.6.3-SNAPSHOT -DoldVersion=* -DgroupId=* -DartifactId=*`
 
 `mvn versions:revert`
