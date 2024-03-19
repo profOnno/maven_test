@@ -13,4 +13,7 @@ Make sure to be in the `build_scripts` folder.
 
 `mvn versions:set -DnewVersion=1.6.3-SNAPSHOT -DoldVersion=* -DgroupId=* -DartifactId=*`
 
+If it works commit, so a future revert will use this version
+`mvn versions:commit`
+
 `mvn versions:revert`
