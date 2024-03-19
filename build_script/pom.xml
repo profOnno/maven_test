@@ -15,17 +15,7 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <!-- <dependencies> -->
-  <!--   <dependency> -->
-  <!--     <groupId>nl.kuopzi.mytest</groupId> -->
-  <!--   <artifactId>MyTest</artifactId> -->
-  <!--   <version>1.61-SNAPSHOT</version> -->
-  <!--   </dependency> -->
-  <!-- </dependencies> -->
-
   <modules>
-    <!-- <module>../TuxGuitar-lib</module> -->
-    <!-- <module>..</module> -->
     <module>../modA</module>
     <module>../modB</module>
   </modules>
